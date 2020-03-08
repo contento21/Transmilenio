@@ -1,0 +1,195 @@
+<?xml version="1.0"?>
+<Transmilenio>
+	<Troncal nombre="Caracas">
+		<Estaciones>31</Estaciones>
+		<Estacion>
+			<Nombre>Tercer Milenio</Nombre>
+			<Longitud>4.59782</Longitud>
+			<Latitud>-74.0855911</Latitud>
+			<Tipo>Normal</Tipo>
+		</Estacion>
+		<Estacion>
+			<Nombre>Av. Jiménez</Nombre>
+			<Longitud>4.60265</Longitud>
+			<Latitud>-74.082774</Latitud>
+			<Tipo>Intercambiador</Tipo>
+		</Estacion>
+		<Estacion>
+			<Nombre>Calle 19</Nombre>
+			<Longitud>4.6085001</Longitud>
+			<Latitud>-74.076942</Latitud>
+			<Tipo>Normal</Tipo>
+		</Estacion>
+		<Estacion>
+			<Nombre>Calle 22</Nombre>
+			<Longitud>4.6107707</Longitud>
+			<Latitud>-74.0756292</Latitud>
+			<Tipo>Normal</Tipo>
+		</Estacion>
+		<Estacion>
+			<Nombre>Calle 26</Nombre>
+			<Longitud>4.6169289</Longitud>
+			<Latitud>-74.0743527</Latitud>
+			<Tipo>Normal</Tipo>
+		</Estacion>
+		<Estacion>
+			<Nombre>Profamilia</Nombre>
+			<Longitud>4.6213908</Longitud>
+			<Latitud>-74.0719939</Latitud>
+			<Tipo>Normal</Tipo>
+		</Estacion>
+		<Estacion>
+			<Nombre>Av. 39</Nombre>
+			<Longitud>4.62718</Longitud>
+			<Latitud>-74.070834</Latitud>
+			<Tipo>Normal</Tipo>
+		</Estacion>
+		<Estacion>
+			<Nombre>Calle 45</Nombre>
+			<Longitud>4.6326601</Longitud>
+			<Latitud>-74.0698539</Latitud>
+			<Tipo>Normal</Tipo>
+		</Estacion>
+		<Estacion>
+			<Nombre>Marly</Nombre>
+			<Longitud>4.63698</Longitud>
+			<Latitud>-74.069064</Latitud>
+			<Tipo>Normal</Tipo>
+		</Estacion>
+		<Estacion>
+			<Nombre>Calle 57</Nombre>
+			<Longitud>4.6429218</Longitud>
+			<Latitud>-74.0680732</Latitud>
+			<Tipo>Normal</Tipo>
+		</Estacion>
+		<Estacion>
+			<Nombre>Calle 63</Nombre>
+			<Longitud>4.6492122</Longitud>
+			<Latitud>-74.0669026</Latitud>
+			<Tipo>Normal</Tipo>
+		</Estacion>
+		<Estacion>
+			<Nombre>Flores</Nombre>
+			<Longitud>4.65488</Longitud>
+			<Latitud>-74.065214</Latitud>
+			<Tipo>Normal</Tipo>
+		</Estacion>
+		<Estacion>
+			<Nombre>Calle 72</Nombre>
+			<Longitud>4.6592618</Longitud>
+			<Latitud>-74.0641148</Latitud>
+			<Tipo>Normal</Tipo>
+		</Estacion>
+		<Estacion>
+			<Nombre>Calle 76</Nombre>
+			<Longitud>4.6640306</Longitud>
+			<Latitud>-74.0632751</Latitud>
+			<Tipo>Normal</Tipo>
+		</Estacion>
+
+	</Troncal>
+	<Troncal nombre="Norte">
+		<Estacion>
+			<Nombre>Héroes</Nombre>
+			<Longitud>4.66831</Longitud>
+			<Latitud>-74.062404</Latitud>
+			<Tipo>Normal</Tipo>
+		</Estacion>
+		<Estacion>
+			<Nombre>Calle 85</Nombre>
+			<Longitud>4.672192</Longitud>
+			<Latitud>-74.06143</Latitud>
+			<Tipo>Normal</Tipo>
+		</Estacion>
+		<Estacion>
+			<Nombre>Virrey</Nombre>
+			<Longitud>4.6758553</Longitud>
+			<Latitud>-74.0613357</Latitud>
+			<Tipo>Normal</Tipo>
+		</Estacion>
+		<Estacion>
+			<Nombre>Calle 100</Nombre>
+			<Longitud>4.6848007</Longitud>
+			<Latitud>-74.0597635</Latitud>
+			<Tipo>Normal</Tipo>
+		</Estacion>
+		<Estacion>
+			<Nombre>Calle 106</Nombre>
+			<Longitud>4.694599</Longitud>
+			<Latitud>-74.0569842</Latitud>
+			<Tipo>Normal</Tipo>
+		</Estacion>
+		<Estacion>
+			<Nombre>Pepe Sierra</Nombre>
+			<Longitud>4.6987949</Longitud>
+			<Latitud>-74.0574443</Latitud>
+			<Tipo>Normal</Tipo>
+		</Estacion>
+		<Estacion>
+			<Nombre>Calle 127</Nombre>
+			<Longitud>4.7042884</Longitud>
+			<Latitud>-74.0565409</Latitud>
+			<Tipo>Normal</Tipo>
+		</Estacion>
+		<Estacion>
+			<Nombre>Prado</Nombre>
+			<Longitud>4.713174</Longitud>
+			<Latitud>-74.0548759</Latitud>
+			<Tipo>Normal</Tipo>
+		</Estacion>
+		<Estacion>
+			<Nombre>Alcalá</Nombre>
+			<Longitud>4.7202852</Longitud>
+			<Latitud>-74.054479</Latitud>
+			<Tipo>Normal</Tipo>
+		</Estacion>
+		<Estacion>
+			<Nombre>Calle 142</Nombre>
+			<Longitud>4.7269441</Longitud>
+			<Latitud>-74.052502</Latitud>
+			<Tipo>Normal</Tipo>
+		</Estacion>
+		<Estacion>
+			<Nombre>Calle 146</Nombre>
+			<Longitud>4.7308315</Longitud>
+			<Latitud>-74.0520612</Latitud>
+			<Tipo>Normal</Tipo>
+		</Estacion>
+		<Estacion>
+			<Nombre>Mazurén</Nombre>
+			<Longitud>4.7344974</Longitud>
+			<Latitud>-74.0514366</Latitud>
+			<Tipo>Normal</Tipo>
+		</Estacion>
+		<Estacion>
+			<Nombre>Cardio Infantil</Nombre>
+			<Longitud>4.7427042</Longitud>
+			<Latitud>-74.0500565</Latitud>
+			<Tipo>Normal</Tipo>
+		</Estacion>
+		<Estacion>
+			<Nombre>Toberín</Nombre>
+			<Longitud>4.7461848</Longitud>
+			<Latitud>-74.049473</Latitud>
+			<Tipo>Normal</Tipo>
+		</Estacion>
+		<Estacion>
+			<Nombre>Portal del Norte</Nombre>
+			<Longitud>4.75423</Longitud>
+			<Latitud>-74.048354</Latitud>
+			<Tipo>Portal</Tipo>
+		</Estacion>
+		<Estacion>
+			<Nombre>Calle 187</Nombre>
+			<Longitud>4.7635717</Longitud>
+			<Latitud>-74.0464971</Latitud>
+			<Tipo>Normal</Tipo>
+		</Estacion>
+		<Estacion>
+			<Nombre>Terminal</Nombre>
+			<Longitud>4.770036</Longitud>
+			<Latitud>-74.0458725</Latitud>
+			<Tipo>Portal</Tipo>
+		</Estacion>
+	</Troncal>
+</Transmilenio>
